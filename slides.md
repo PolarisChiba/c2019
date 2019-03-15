@@ -22,7 +22,8 @@
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
 |條件式        ||[if else][hc-ifelse]   |
-|迴圈(while)   |||
+|迴圈(while)   |[while loop][taipei-while]||
 |陣列          |||
 
 [hc-ifelse]: https://drive.google.com/file/d/11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s/view
+[taipei-while]: https://hackmd.io/p/r1QHd7MPN#/
