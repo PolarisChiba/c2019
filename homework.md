@@ -4,5 +4,5 @@
 
 | 日期  | 週次 | 上課練習                                 | 勾選作業               | 其他習題                                  | 檢討               |
 | :---: | :--: | :--------------------------------------- | :----------------- | :----------------------------------- | :--------------- |
-| | | |[646-寒流來襲](https://neoj.sprout.tw/problem/646/), [450-逃離女兒紅](https://neoj.sprout.tw/problem/450/) || |
-| 3/16 | 2 | [208-季節判斷](https://neoj.sprout.tw/problem/208/) | || |
+| 3/9 | 1 | |[646-寒流來襲](https://neoj.sprout.tw/problem/646/), [450-逃離女兒紅](https://neoj.sprout.tw/problem/450/) || |
+| 3/16 | 2 | [208-季節判斷](https://neoj.sprout.tw/problem/208/) | [451-我沒辦法AC都是13的錯](https://neoj.sprout.tw/problem/451/), [764-減肥成功率](https://neoj.sprout.tw/problem/764/)|| |
