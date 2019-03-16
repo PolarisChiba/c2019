@@ -21,9 +21,10 @@
 ## 第二週投影片 03/16
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-|條件式        ||[if else][hc-ifelse]   |
+|條件式        |[if else][tp-ifelse] | [if else][hc-ifelse]   |
 |迴圈(while)   |[while loop][taipei-while]|[while-loop][hc-while]|
 
+[tp-ifelse]: https://drive.google.com/file/d/1NWEBKvXRR82utJA7QmiMK9hVqoY-ht9L/view
 [hc-ifelse]: https://drive.google.com/file/d/11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s/view
 [hc-while]: https://drive.google.com/open?id=1F-L7SmDXAPynl_UC33-hAtPr4RU97zup
 [taipei-while]: https://hackmd.io/p/r1QHd7MPN#/
