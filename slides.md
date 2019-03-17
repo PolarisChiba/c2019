@@ -28,3 +28,11 @@
 [hc-ifelse]: https://drive.google.com/file/d/11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s/view
 [hc-while]: https://drive.google.com/open?id=1F-L7SmDXAPynl_UC33-hAtPr4RU97zup
 [taipei-while]: https://hackmd.io/p/r1QHd7MPN#/
+
+## 第三週投影片 03/23
+| 主題         | 北區                      | 竹區                           |
+| ------------ | ------------------------- | ------------------------------ |
+|迴圈、控制流程|                           |                                |
+|一維陣列      |                           | [一維陣列][hc-1d_array]        |
+
+[hc-1d_array]: https://drive.google.com/file/d/1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu/view
