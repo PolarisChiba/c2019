@@ -32,7 +32,8 @@
 ## 第三週投影片 03/23
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-|迴圈、控制流程|                           |                                |
+|迴圈、控制流程|                           |  [for, break, continue][hc-for] |
 |一維陣列      |                           | [一維陣列][hc-1d_array]        |
 
 [hc-1d_array]: https://drive.google.com/file/d/1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu/view
+[hc-for]: https://drive.google.com/open?id=1BFit6o8gxiznf20am82xSXlbOjEDy6Ux-tsJKJWBtuA
