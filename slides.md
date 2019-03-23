@@ -32,9 +32,10 @@
 ## 第三週投影片 03/23
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-|迴圈、控制流程|                           |  [for, break, continue][hc-for] |
+|迴圈、控制流程 |  [For Loop][tp-for]      |  [for, break, continue][hc-for] |
 |一維陣列      |  [一維陣列][tp-1d_array]  | [一維陣列][hc-1d_array]        |
 
 [hc-1d_array]: https://drive.google.com/file/d/1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu/view
 [hc-for]: https://drive.google.com/open?id=1BFit6o8gxiznf20am82xSXlbOjEDy6Ux-tsJKJWBtuA
+[tp-for]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/ForLoop/
 [tp-1d_array]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=array_2019
