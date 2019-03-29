@@ -43,7 +43,9 @@
 ## 第四週投影片 03/30
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
-|字元 、字串(C-style) |  |   |
+|字元 、字串(C-style) |                          |  [字元, 字串][hc-char]         |
 |多維陣列             |  |   |
+
+[hc-char]: https://drive.google.com/file/d/15s3PQguDa-VoFWDURK0dXItvXNcqaFj-/view?usp=sharing
 
 
