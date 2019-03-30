@@ -44,9 +44,9 @@
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
 |字元 、字串(C-style) |                          |  [字元, 字串][hc-char]         |
-|多維陣列             |  | [多維陣列][hc-kd-array] |
+|多維陣列             | [多維陣列][tp-kd-array] | [多維陣列][hc-kd-array] |
 
 [hc-char]: https://drive.google.com/file/d/1DXbOmfMUHBH-aLinNRpqnLDk0edSUyJG/view?usp=sharing
 [hc-kd-array]: https://drive.google.com/open?id=1ljlw7EZuTkkjaMgKsTCpujbPxAqrqDQG
-
+[tp-kd-array]:https://drive.google.com/file/d/1kOsPu-WrVxmKpuHaCOCLjuID8XWp7m1D/view
 
