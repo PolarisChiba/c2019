@@ -51,3 +51,13 @@
 [tp-kd-array]:https://drive.google.com/file/d/1kOsPu-WrVxmKpuHaCOCLjuID8XWp7m1D/view
 [tp-char-cstring]: https://slides.com/arvinliu/deck-10
 
+## 第六週投影片 4/13
+| 主題               | 北區                      | 竹區                           |
+| ------------------ | ------------------------ | ------------------------------ |
+|型態/型別轉換        |  [型別轉換] |  [型別轉換][type2]         |
+|亂數                |  [亂數] |  |
+
+[type2]: https://drive.google.com/file/d/1hGLibym-rXvJZ0lU1hIsWjK9vtKhFM8b/view
+
+
+
