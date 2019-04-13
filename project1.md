@@ -1,10 +1,13 @@
 # 大作業一
 
-**作業截止時間: 2018/05/05 20:00**
+更新：
+2019.4.13 - 處理亂碼。如果你看到新的作業反而是亂碼，請下載[舊版][v1]。
+
+**作業截止時間: 2019/05/05 20:00**
 
 ## 各式連結
 - [作業說明投影片](https://docs.google.com/presentation/d/1zkGIKO9UUbKH6-jr0QUlzEfmpi7O1d7PHm-VlO6-koM/edit?usp=sharing)
-- [作業檔案](https://drive.google.com/open?id=1PoR-hcwSpbSpc1yaUPCXKLgqIrxGcpZF)
+- [作業檔案](https://drive.google.com/open?id=1MUa16wlLF4XWmQAYYldj5JqY1mP6c0q7)
 - [作業繳交](https://course.sprout.tw/)
 
 ## 繳交格式
@@ -23,3 +26,4 @@ project01.zip
     ├── readme.txt [簡要說明你的作法與想法，以及編譯方式]
     └── * [你需要的任何材料]
 ```
+[v1]: https://drive.google.com/open?id=1PoR-hcwSpbSpc1yaUPCXKLgqIrxGcpZF
