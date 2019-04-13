@@ -4,7 +4,7 @@
 
 ## 各式連結
 - [作業說明投影片](https://docs.google.com/presentation/d/1zkGIKO9UUbKH6-jr0QUlzEfmpi7O1d7PHm-VlO6-koM/edit?usp=sharing)
-- [作業檔案](https://drive.google.com/drive/u/0/folders/1MahoIW_T3IZZqKbeR5hDzM1Y39ROw3fK)
+- [作業檔案](https://drive.google.com/open?id=1PoR-hcwSpbSpc1yaUPCXKLgqIrxGcpZF)
 - [作業繳交](https://course.sprout.tw/)
 
 ## 繳交格式
