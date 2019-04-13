@@ -54,10 +54,11 @@
 ## 第六週投影片 4/13
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
+|函數呼叫             |                          |[函數呼叫][hc-callFunction]     |
 |型態/型別轉換        |  [型別轉換] |  [型別轉換][type2]         |
 |亂數                |  [亂數] |  |
 
 [type2]: https://drive.google.com/file/d/1hGLibym-rXvJZ0lU1hIsWjK9vtKhFM8b/view
-
+[hc-callFunction]: https://drive.google.com/open?id=1cSqIJhnSOrR2MxSvocbmW9cy-FZzccqw
 
 
