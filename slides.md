@@ -54,7 +54,7 @@
 ## 第六週投影片 4/13
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
-|函數呼叫             |                          |[函數呼叫][hc-callFunction]     |
+|函數呼叫             | [函數呼叫][tp-callFunction]|[函數呼叫][hc-callFunction]     |
 |型態/型別轉換        |  [型別轉換][tp-data-type]|  [型別轉換][type2]         |
 |亂數                |  [亂數][tp-random] |  |
 
@@ -62,5 +62,5 @@
 [hc-callFunction]: https://drive.google.com/open?id=1cSqIJhnSOrR2MxSvocbmW9cy-FZzccqw
 [tp-data-type]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=data_type_2019
 [tp-random]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=random_2019
-
+[tp-callFunction]: https://slides.com/arvinliu/deck-11
 
