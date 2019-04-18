@@ -2,6 +2,8 @@
 
 更新：
 2019.4.13 - 處理亂碼。如果你看到新的作業反而是亂碼，請下載[舊版][v1]。
+2019.4.18 - 處理其他檔案亂碼。處理C++03編譯error。
+2019.4.19 - 沒有上到課的同學，可以參考[作業說明影片][video]。
 
 **作業截止時間: 2019/05/05 20:00**
 
@@ -27,3 +29,4 @@ project01.zip
     └── * [你需要的任何材料]
 ```
 [v1]: https://drive.google.com/open?id=1PoR-hcwSpbSpc1yaUPCXKLgqIrxGcpZF
+[video]: https://youtu.be/HgCXHtUl-8c
