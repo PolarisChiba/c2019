@@ -64,3 +64,12 @@
 [tp-random]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=random_2019
 [tp-callFunction]: https://slides.com/arvinliu/deck-11
 
+## 第七週投影片 4/20
+| 主題               | 北區                      | 竹區                           |
+| ------------------ | ------------------------ | ------------------------------ |
+|編寫函數             |                           |[編寫函數][hc-function]     |
+|變數生命週期        |  |    |
+|修飾子                |  |  |
+
+[hc-function]: https://drive.google.com/open?id=1v4o15elRX_pVS91MP_JsjB8qrQgTY541
+
