@@ -67,9 +67,9 @@
 ## 第七週投影片 4/20
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
-|編寫函數             |                           |[編寫函數][hc-function]     |
+|編寫函數             |[編寫函數][Taipei-function]  |[編寫函數][hc-function]     |
 |變數生命週期        |  |    |
 |修飾子                |  |  |
 
 [hc-function]: https://drive.google.com/open?id=1v4o15elRX_pVS91MP_JsjB8qrQgTY541
-
+[Taipei-function]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0420.html
