@@ -68,8 +68,10 @@
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
 |編寫函數             |[編寫函數][Taipei-function]  |[編寫函數][hc-function]     |
-|變數生命週期        |  |    |
-|修飾子                |  |  |
+|變數生命週期        |  | [生命週期][hc-scope]   |
+|修飾子                |  | [修飾子][hc-const] |
 
 [hc-function]: https://drive.google.com/open?id=1v4o15elRX_pVS91MP_JsjB8qrQgTY541
+[hc-scope]: https://drive.google.com/open?id=1-AFcX1tv-GYiNcDnq-gqTPpiFhw9etv4
+[hc-const]: https://drive.google.com/open?id=1vSsZBbo9rAg46UliqiqDTH5OW_a9B_U4
 [Taipei-function]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0420.html
