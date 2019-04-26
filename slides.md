@@ -77,3 +77,11 @@
 [Taipei-function]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0420.html
 [tp-scope]:https://drive.google.com/file/d/1B7900A3IdtbOhK04sIAOsMpAZjYSj-Tg/view?usp=sharing
 [tp-const]:https://drive.google.com/file/d/1bbWm2ex2qFhnA86LqpbQKZ1hXg3dDH-V/view?usp=sharing
+
+## 第八週投影片 4/22
+| 主題               | 北區                      | 竹區                           |
+| ------------------ | ------------------------ | ------------------------------ |
+|遞迴             |  |     |
+|c++ string & stream |  |[c++ string & stream][hc-string-stream]  |
+
+[hc-string-stream]: https://docs.google.com/presentation/d/1bdOrJoCNgfG2tys9fROMyhQ6DmrX6rslM89Y747hTE4/
