@@ -82,7 +82,8 @@
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
 |遞迴             |  |   [遞迴][hc-RC]  |
-|c++ string & stream |  |[c++ string & stream][hc-string-stream]  |
+| [c++ string & stream][tp-string-stream] |  |[c++ string & stream][hc-string-stream]  |
 
 [hc-string-stream]: https://docs.google.com/presentation/d/1bdOrJoCNgfG2tys9fROMyhQ6DmrX6rslM89Y747hTE4/
 [hc-RC]: https://drive.google.com/open?id=1Mpr-yeOw3UIGYm0d47Ns7nWMnGVCUUWF
+[tp-string-stream]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/StringStream/#/
