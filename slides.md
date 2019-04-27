@@ -81,7 +81,8 @@
 ## 第八週投影片 4/22
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
-|遞迴             |  |     |
+|遞迴             |  |   [遞迴][hc-RC]  |
 |c++ string & stream |  |[c++ string & stream][hc-string-stream]  |
 
 [hc-string-stream]: https://docs.google.com/presentation/d/1bdOrJoCNgfG2tys9fROMyhQ6DmrX6rslM89Y747hTE4/
+[hc-RC]: https://drive.google.com/open?id=1Mpr-yeOw3UIGYm0d47Ns7nWMnGVCUUWF
