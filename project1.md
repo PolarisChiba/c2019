@@ -4,12 +4,13 @@
 2019.4.13 - 處理亂碼。如果你看到新的作業反而是亂碼，請下載[舊版][v1]。
 2019.4.18 - 處理其他檔案亂碼。處理C++03編譯error。
 2019.4.19 - 沒有上到課的同學，可以參考[作業說明影片][video]。
+2019.4.29 - 處理轉檔器產生的wav檔。
 
 **作業截止時間: 2019/05/05 20:00**
 
 ## 各式連結
 - [作業說明投影片](https://docs.google.com/presentation/d/1zkGIKO9UUbKH6-jr0QUlzEfmpi7O1d7PHm-VlO6-koM/edit?usp=sharing)
-- [作業檔案](https://drive.google.com/open?id=1ZDGjI9AU4mAlkGkCylfxTbB3fwoFe6B0)
+- [作業檔案](https://drive.google.com/open?id=1KleOD4lbvDRLPvyuFY0GGDdNd0ib9v6q)
 - [作業繳交](https://course.sprout.tw/)
 
 ## 繳交格式
