@@ -64,3 +64,26 @@
 [tp-random]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=random_2019
 [tp-callFunction]: https://slides.com/arvinliu/deck-11
 
+## 第七週投影片 4/20
+| 主題               | 北區                      | 竹區                           |
+| ------------------ | ------------------------ | ------------------------------ |
+|編寫函數             |[編寫函數][Taipei-function]  |[編寫函數][hc-function]     |
+|變數生命週期        | [生命週期][tp-scope] | [生命週期][hc-scope]   |
+|修飾子                | [修飾子][tp-const] | [修飾子][hc-const] |
+
+[hc-function]: https://drive.google.com/open?id=1v4o15elRX_pVS91MP_JsjB8qrQgTY541
+[hc-scope]: https://drive.google.com/open?id=1-AFcX1tv-GYiNcDnq-gqTPpiFhw9etv4
+[hc-const]: https://drive.google.com/open?id=1vSsZBbo9rAg46UliqiqDTH5OW_a9B_U4
+[Taipei-function]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0420.html
+[tp-scope]:https://drive.google.com/file/d/1B7900A3IdtbOhK04sIAOsMpAZjYSj-Tg/view?usp=sharing
+[tp-const]:https://drive.google.com/file/d/1bbWm2ex2qFhnA86LqpbQKZ1hXg3dDH-V/view?usp=sharing
+
+## 第八週投影片 4/22
+| 主題               | 北區                      | 竹區                           |
+| ------------------ | ------------------------ | ------------------------------ |
+|遞迴             |  |   [遞迴][hc-RC]  |
+| c++ string & stream | [c++ string & stream][tp-string-stream] |[c++ string & stream][hc-string-stream]  |
+
+[hc-string-stream]: https://docs.google.com/presentation/d/1bdOrJoCNgfG2tys9fROMyhQ6DmrX6rslM89Y747hTE4/
+[hc-RC]: https://drive.google.com/open?id=1Mpr-yeOw3UIGYm0d47Ns7nWMnGVCUUWF
+[tp-string-stream]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/StringStream/#/
