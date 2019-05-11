@@ -91,8 +91,9 @@
 ## 第十週投影片 5/11
 | 主題               | 北區                      | 竹區                           |
 | ------------------ | ------------------------ | ------------------------------ |
-|struct、排序        |  |   [struct、排序][hc-sort]  |
+|struct、排序        | [struct、排序][tp-sort] |   [struct、排序][hc-sort]  |
 | 二分搜、複雜度 | [二分搜、複雜度][tp_complexity]  |  |
 
+[tp-sort]:https://hackmd.io/p/HyYWAjajV#/
 [hc-sort]:https://drive.google.com/file/d/1QMQ-255mkMoJqH-45yfGAqzN1WqIzpUx/view?usp=sharing
 [tp_complexity]:https://www.csie.ntu.edu.tw/~b04902031/sprout_0511.html
