@@ -87,3 +87,11 @@
 [hc-string-stream]: https://docs.google.com/presentation/d/1bdOrJoCNgfG2tys9fROMyhQ6DmrX6rslM89Y747hTE4/
 [hc-RC]: https://drive.google.com/open?id=1Mpr-yeOw3UIGYm0d47Ns7nWMnGVCUUWF
 [tp-string-stream]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/StringStream/#/
+
+## 第十週投影片 5/11
+| 主題               | 北區                      | 竹區                           |
+| ------------------ | ------------------------ | ------------------------------ |
+|struct、排序        |  |   [struct、排序][hc-sort]  |
+| 二分搜、複雜度 |]   |  |
+
+[hc-sort]:https://drive.google.com/file/d/1QMQ-255mkMoJqH-45yfGAqzN1WqIzpUx/view?usp=sharing
