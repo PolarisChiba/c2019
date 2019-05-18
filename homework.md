@@ -4,7 +4,7 @@
 
 | 日期  | 週次 | 上課練習                                 | 勾選作業               | 其他習題                                  | 檢討               |
 | :---: | :--: | :--------------------------------------- | :----------------- | :----------------------------------- | :--------------- |
-| 3/9 | 1 | |[646-寒流來襲](https://neoj.sprout.tw/problem/646/), [450-逃離女兒紅](https://neoj.sprout.tw/problem/450/) || [week1講解(竹)](https://drive.google.com/file/d/1SLGuJ7n766uQDXxgtrGUguRQDDS-AHWJ/view?usp=sharing) |
+| 3/9 | 1 | |[646-寒流來襲][646], [450-逃離女兒紅](https://neoj.sprout.tw/problem/450/) || [week1講解(竹)](https://drive.google.com/file/d/1SLGuJ7n766uQDXxgtrGUguRQDDS-AHWJ/view?usp=sharing) |
 | 3/16 | 2 | [208-季節判斷](https://neoj.sprout.tw/problem/208/) | [451-我沒辦法AC都是13的錯](https://neoj.sprout.tw/problem/451/), [764-減肥成功率](https://neoj.sprout.tw/problem/764/)||[week2講解(竹)](https://drive.google.com/file/d/10IfYFGB15VsQAJ_syIaGXxQFDqeKj4of/view?usp=sharing) |
 | 3/23 | 3 | [453-植樹的法則－簡易版](https://neoj.sprout.tw/problem/453/), [294-我愛零分](https://neoj.sprout.tw/problem/294/) | [452-艾莉燕的生日](https://neoj.sprout.tw/problem/452/), [504-Bean Machine](https://neoj.sprout.tw/problem/504/) | [891-次方階乘](https://neoj.sprout.tw/problem/891/) | [week3講解(竹)](https://drive.google.com/open?id=1_1Ey7wr3WaGCd8y7ZeQEbJglqZbxC6dy) <br> [week3講解(北)](https://drive.google.com/file/d/1vjRO1x5uMb3XapktBenMZ1ti8OArbYMR/view?usp=sharing)|
 | 3/30 | 4 | | [454-矩陣乘法](https://neoj.sprout.tw/problem/454/), [455-縮略詠唱可不是簡單的事情呢！](https://neoj.sprout.tw/problem/455/) | |[week4講解(竹)](https://drive.google.com/file/d/1GX8eQy47MHxKugDj0qOG0mqT5R1EQpnW/view?usp=sharing) |
@@ -14,3 +14,5 @@
 | 5/11 | 10 | [148-Guess Number](https://neoj.sprout.tw/problem/148/)、[369-書瑾與他的泡泡們](https://neoj.sprout.tw/problem/369/) | [67-妹妹，我的蛋蛋又大又硬](https://neoj.sprout.tw/problem/67/)、[236-榜單排序](https://neoj.sprout.tw/problem/236/) | | |
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
 | 5/18 | 11 | | [464-lowB](https://neoj.sprout.tw/problem/464/)、[465-排序不簡單](https://neoj.sprout.tw/problem/465/) | | [week10講解(竹)](https://hackmd.io/gOvA4Rj3Q46CjZK1HNALzw) [week10講解(北)](https://hackmd.io/p/rkmciYJIE#)|
+
+[646]:https://neoj.sprout.tw/problem/646/
