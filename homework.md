@@ -13,4 +13,4 @@
 | 4/22 | 8 | [441-禮貌校園](https://neoj.sprout.tw/problem/441/)，[442-向量加法](https://neoj.sprout.tw/problem/442) | [463-輾轉相除法](https://neoj.sprout.tw/problem/463/) | | |
 | 5/11 | 10 | [148-Guess Number](https://neoj.sprout.tw/problem/148/)、[369-書瑾與他的泡泡們](https://neoj.sprout.tw/problem/369/) | [67-妹妹，我的蛋蛋又大又硬](https://neoj.sprout.tw/problem/67/)、[236-榜單排序](https://neoj.sprout.tw/problem/236/) | | |
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
-| 5/18 | 11 | | [464-lowB](https://neoj.sprout.tw/problem/464/) | | [week10講解(竹)](https://hackmd.io/gOvA4Rj3Q46CjZK1HNALzw) [week10講解(北)](https://hackmd.io/p/rkmciYJIE#)|
+| 5/18 | 11 | | [464-lowB](https://neoj.sprout.tw/problem/464/)、[465-排序不簡單](https://neoj.sprout.tw/problem/465/) | | [week10講解(竹)](https://hackmd.io/gOvA4Rj3Q46CjZK1HNALzw) [week10講解(北)](https://hackmd.io/p/rkmciYJIE#)|
