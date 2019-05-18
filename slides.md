@@ -98,3 +98,12 @@
 [hc-sort]:https://drive.google.com/file/d/1QMQ-255mkMoJqH-45yfGAqzN1WqIzpUx/view?usp=sharing
 [tp_complexity]:https://www.csie.ntu.edu.tw/~b04902031/sprout_0511.html
 [hc-bs]:https://hackmd.io/p/rJGGpt9o4
+
+## 第十一週投影片 5/18
+| 主題                   | 北區                      | 竹區                           |
+| ---------------------- | ------------------------ | ------------------------------ |
+|指標、指標與函數         |  | [指標、指標與函數][hc-pointer] |
+| reference、header files|  | [reference、header files][hc-reference] |
+
+[hc-pointer]:https://drive.google.com/file/d/1UWBpYtDFK0tbwZddOORCaC3s1QiNOdk6/view?usp=sharing
+[hc-reference]:https://drive.google.com/file/d/1t78ZnV6eyZAMp2a7OAQCmQJLZNF0aGZA/view?usp=sharing
