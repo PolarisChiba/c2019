@@ -103,8 +103,9 @@
 | 主題                   | 北區                      | 竹區                           |
 | ---------------------- | ------------------------ | ------------------------------ |
 |指標、指標與函數         |   [指標 & call by ???][tp-pointer]  | [指標、指標與函數][hc-pointer] |
-| reference、header files|  | [reference、header files][hc-reference] |
+| reference、header files| [header files][tp-header] | [reference、header files][hc-reference] |
 
 [hc-pointer]:https://drive.google.com/file/d/1UWBpYtDFK0tbwZddOORCaC3s1QiNOdk6/view?usp=sharing
 [hc-reference]:https://drive.google.com/file/d/1t78ZnV6eyZAMp2a7OAQCmQJLZNF0aGZA/view?usp=sharing
 [tp-pointer]:https://slides.com/arvinliu/pointer
+[tp-header]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=header_2019
