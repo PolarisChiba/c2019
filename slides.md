@@ -109,3 +109,12 @@
 [hc-reference]:https://drive.google.com/file/d/1t78ZnV6eyZAMp2a7OAQCmQJLZNF0aGZA/view?usp=sharing
 [tp-pointer]:https://slides.com/arvinliu/pointer
 [tp-header]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=header_2019
+
+## 第十二週投影片 5/25
+| 主題                   | 北區                      | 竹區                           |
+| ---------------------- | ------------------------ | ------------------------------ |
+|strut & pointer         |                          | [struct ptr][hc-struct-ptr]    |
+|link list               |                          | [link list][hc-linklist]       |
+
+[hc-struct-ptr]:https://drive.google.com/open?id=1aeajC2m433jueUlMx_QoSuiLjE2krc3L
+[hc-linklist]:https://drive.google.com/open?id=1MDJCFTrQphHNC7UXlXuDRetu9xMUU-EQ
