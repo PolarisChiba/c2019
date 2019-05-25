@@ -13,7 +13,7 @@
 | 4/22 | 8 | [441-禮貌校園][441]，[442-向量加法][442] | [463-輾轉相除法][463] | | |
 | 5/11 | 10 | [148-Guess Number][148]、[369-書瑾與他的泡泡們][369] | [67-妹妹，我的蛋蛋又大又硬][67]、[236-榜單排序][236] | | [week10講解(竹)][hc-week10] [week10講解(北)][tp-week10] |
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
-| 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | [week11講解(竹)][hc-week11] |
+| 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | [week11講解(竹)][hc-week11][week11參考解答(北)][tp-week11] |
 | 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458]、[1415-排隊問題][1415] | |
 
 
@@ -62,3 +62,4 @@
 [tp-week3]:https://drive.google.com/file/d/1vjRO1x5uMb3XapktBenMZ1ti8OArbYMR/view?usp=sharing
 [tp-week7]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/459-Analyze/#/
 [tp-week10]:https://hackmd.io/p/rkmciYJIE#
+[tp-week11]:https://gist.github.com/jimpei8989/3c88f8f395ed5122a2fa05da8c6a7955
