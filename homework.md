@@ -14,7 +14,7 @@
 | 5/11 | 10 | [148-Guess Number][148]、[369-書瑾與他的泡泡們][369] | [67-妹妹，我的蛋蛋又大又硬][67]、[236-榜單排序][236] | | [week10講解(竹)][hc-week10] [week10講解(北)][tp-week10] |
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
 | 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | [week11講解(竹)][hc-week11] |
-| 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458] | |
+| 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458]、[1415-排隊問題][1415] | |
 
 
 [67]:https://neoj.sprout.tw/problem/67/
@@ -48,7 +48,7 @@
 [891]:https://neoj.sprout.tw/problem/891/
 [170]:https://neoj.sprout.tw/problem/170/
 [458]:https://neoj.sprout.tw/problem/458/
-
+[1415]:https://neoj.sprout.tw/problem/1415/
 
 [hc-week1]:https://drive.google.com/file/d/1SLGuJ7n766uQDXxgtrGUguRQDDS-AHWJ/view?usp=sharing
 [hc-week2]:https://drive.google.com/file/d/10IfYFGB15VsQAJ_syIaGXxQFDqeKj4of/view?usp=sharing
