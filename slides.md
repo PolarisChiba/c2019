@@ -113,8 +113,10 @@
 ## 第十二週投影片 5/25
 | 主題                   | 北區                      | 竹區                           |
 | ---------------------- | ------------------------ | ------------------------------ |
-|strut & pointer         |                          | [struct ptr][hc-struct-ptr]    |
-|link list               |                          | [link list][hc-linklist]       |
+|strut & pointer         | [Struct-Ptr][tp-struct-ptr] | [struct ptr][hc-struct-ptr]    |
+|link list               | [Linked List][tp-linkedlist]  | [link list][hc-linklist]       |
 
 [hc-struct-ptr]:https://drive.google.com/open?id=1aeajC2m433jueUlMx_QoSuiLjE2krc3L
 [hc-linklist]:https://drive.google.com/open?id=1MDJCFTrQphHNC7UXlXuDRetu9xMUU-EQ
+[tp-struct-ptr]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/StructPtr/#/
+[tp-linkedlist]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/LinkedList/#/
