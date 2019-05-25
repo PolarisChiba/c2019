@@ -13,7 +13,7 @@
 | 4/22 | 8 | [441-禮貌校園][441]，[442-向量加法][442] | [463-輾轉相除法][463] | | |
 | 5/11 | 10 | [148-Guess Number][148]、[369-書瑾與他的泡泡們][369] | [67-妹妹，我的蛋蛋又大又硬][67]、[236-榜單排序][236] | | [week10講解(竹)][hc-week10] [week10講解(北)][tp-week10] |
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
-| 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | |
+| 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | [week11講解(竹)][https://drive.google.com/open?id=1m0BI-uunA3x26LlSnMU_6HVvxG_NZ12Q] |
 | 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458] | |
 
 
