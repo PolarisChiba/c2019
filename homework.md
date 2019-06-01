@@ -15,7 +15,7 @@
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
 | 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | [week11講解(竹)][hc-week11], [week11參考解答(北)][tp-week11] |
 | 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458]、[1415-排隊問題][1415] | |
-| 6/1  | 13 | [36-stack練習][36]、[37-queue練習][37] | [19-大善人老闆救濟東南亞兒童][19]、[466-迷幻村與迷宮村][466] |[467-Low B 2][467] |
+| 6/1  | 13 | [36-stack練習][36]、[37-queue練習][37] | [19-大善人老闆救濟東南亞兒童][19]、[466-迷幻村與迷宮村][466] |[467-Low B 2][467] | [week12作業檢討][hc-week12]|
 
 [19]:https://neoj.sprout.tw/problem/19/
 [36]:https://neoj.sprout.tw/problem/36/
@@ -63,6 +63,7 @@
 [hc-week7]:https://drive.google.com/open?id=1t01aalbwWdIBB6a-iahY8pt6Bd44ekvq
 [hc-week10]:https://hackmd.io/gOvA4Rj3Q46CjZK1HNALzw
 [hc-week11]:https://drive.google.com/open?id=1m0BI-uunA3x26LlSnMU_6HVvxG_NZ12Q
+[hc-week12]:https://drive.google.com/open?id=18VSO1LzFAeNz-pLFmSPN9ftb5teD7SdE
 
 [tp-week3]:https://drive.google.com/file/d/1vjRO1x5uMb3XapktBenMZ1ti8OArbYMR/view?usp=sharing
 [tp-week7]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/459-Analyze/#/
