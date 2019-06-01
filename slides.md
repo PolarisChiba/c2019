@@ -125,8 +125,9 @@
 | 主題                   | 北區                      | 竹區                           |
 | ---------------------- | ------------------------ | ------------------------------ |
 |template                | [template][tp-template] | [template][hc-template]    |
-|STL                     |                          | [STL][hc-stl]       |
+|STL                     | [STL][tp-stl]            | [STL][hc-stl]       |
 
 [hc-template]:https://hackmd.io/p/B1frY7OaV#/10
 [hc-stl]:https://drive.google.com/open?id=1sjn3TL_8U1rO7Wxc86lNok-GispX0F5k
 [tp-template]:https://drive.google.com/file/d/1LAv4Msth2GIlUYOIkx4P7vDYTp8TgE5C/view?usp=sharing
+[tp-stl]:https://slides.com/arvinliu/stl#/
