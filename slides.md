@@ -120,3 +120,12 @@
 [hc-linklist]:https://drive.google.com/open?id=1MDJCFTrQphHNC7UXlXuDRetu9xMUU-EQ
 [tp-struct-ptr]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/StructPtr/#/
 [tp-linkedlist]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/LinkedList/#/
+
+## 第十三週投影片 6/1
+| 主題                   | 北區                      | 竹區                           |
+| ---------------------- | ------------------------ | ------------------------------ |
+|template                |                         | [template][hc-template]    |
+|STL                     |                          | [STL][hc-stl]       |
+
+[hc-template]:https://hackmd.io/p/B1frY7OaV#/10
+[hc-stl]:https://drive.google.com/open?id=1sjn3TL_8U1rO7Wxc86lNok-GispX0F5k
