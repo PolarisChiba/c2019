@@ -11,22 +11,12 @@
 - [作業檔案](https://github.com/jacky860226/sprout2019C_project2)
 
 ## 繳交格式
+請用email收到的帳號密碼進入以下CMS系統：
 
-未定
-```
-..
-├── checker
-│   └── main.cpp
-├── compress
-│   ├── encode.cpp
-│   ├── encode.h
-│   └── main.cpp
-├── decompress
-│   ├── decode.cpp
-│   ├── decode.h
-│   └── main.cpp
-├── README.md
-└── testdata
-    ├── sample1.txt
-    └── sample2.txt
-```
+http://clang.cms.sprout.tw/
+
+上傳你的encode.cpp以及decode.cpp，可以重複上傳我們會取分數最高的一次當作業成績。
+
+分數計算方式：
+
+如果按造作業說明投影片的run-length encoding實作的話可以拿到大約60分，如果有比助教的run-length encoding壓縮率還要好可以拿大約90分，當然壓縮率越小分數就會越高，大家多多加油吧！
