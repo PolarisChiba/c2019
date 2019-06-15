@@ -136,7 +136,7 @@
 | 主題                   | 北區                      | 竹區                           |
 | ---------------------- | ------------------------ | ------------------------------ |
 | 遞迴2                  | [遞迴2][tp-recursion2]    |  |
-|STL 函式                |[STL 函式] [tp-stl2]       | |
+|STL 函式                |[STL函式][tp-stl2]       | |
 | 課程展望               | [展望][T-future]          |  |
 
 [tp-recursion2]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=recursion2_2019
