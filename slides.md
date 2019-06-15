@@ -131,3 +131,12 @@
 [hc-stl]:https://drive.google.com/open?id=1sjn3TL_8U1rO7Wxc86lNok-GispX0F5k
 [tp-template]:https://drive.google.com/file/d/1LAv4Msth2GIlUYOIkx4P7vDYTp8TgE5C/view?usp=sharing
 [tp-stl]:https://slides.com/arvinliu/stl#/
+
+## 第十五週投影片 6/15
+| 主題                   | 北區                      | 竹區                           |
+| ---------------------- | ------------------------ | ------------------------------ |
+| 遞迴2                  | [遞迴2][tp-recursion2]    |  |
+| 課程展望               | [展望][T-future]          |  |
+
+[tp-recursion2]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=recursion2_2019
+[T-future]: https://docs.google.com/presentation/d/1LJS4cmg-7jAaUP-S7E8bxL8cUkMV-GBIlq5O0XXr3dI/edit#slide=id.p

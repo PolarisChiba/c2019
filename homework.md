@@ -14,14 +14,17 @@
 | 5/11 | 10 | [148-Guess Number][148]、[369-書瑾與他的泡泡們][369] | [67-妹妹，我的蛋蛋又大又硬][67]、[236-榜單排序][236] | | [week10講解(竹)][hc-week10] [week10講解(北)][tp-week10] |
 | 2018第一次階段考題 | x | | | [第一題](https://neoj.sprout.tw/problem/8000/), [第二題](https://neoj.sprout.tw/problem/7878/), [第三題](https://neoj.sprout.tw/problem/3104/), [第四題](https://neoj.sprout.tw/problem/420/) |
 | 5/18 | 11 | | [464-lowB][464]、[465-排序不簡單][465] | | [week11講解(竹)][hc-week11], [week11參考解答(北)][tp-week11] |
-| 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458]、[1415-排隊問題][1415] | |
-| 6/1  | 13 | [36-stack練習][36]、[37-queue練習][37] | [19-大善人老闆救濟東南亞兒童][19]、[466-迷幻村與迷宮村][466] |[467-Low B 2][467] | [week12作業檢討][hc-week12]|
+| 5/25 | 12 | [170-doubly linked list][170] | [458-老鷹抓小雞][458]、[1415-排隊問題][1415] | [week12作業檢討][hc-week12] |
+| 6/1  | 13 | [36-stack練習][36]、[37-queue練習][37] | [19-大善人老闆救濟東南亞兒童][19]、[466-迷幻村與迷宮村][466] |[467-Low B 2][467] ||
+| 6/15 | 15 | [153-文字轉轉轉][153]、[154-河內之塔][154] | [468-加法減法問題][468] |  | |
 
 [19]:https://neoj.sprout.tw/problem/19/
 [36]:https://neoj.sprout.tw/problem/36/
 [37]:https://neoj.sprout.tw/problem/37/
 [67]:https://neoj.sprout.tw/problem/67/
 [148]:https://neoj.sprout.tw/problem/148/
+[153]:https://neoj.sprout.tw/problem/153/
+[154]:https://neoj.sprout.tw/problem/154/
 [208]:https://neoj.sprout.tw/problem/208/
 [214]:https://neoj.sprout.tw/problem/214/
 [225]:https://neoj.sprout.tw/problem/225/
@@ -47,6 +50,7 @@
 [465]:https://neoj.sprout.tw/problem/465/
 [466]:https://neoj.sprout.tw/problem/466/
 [467]:https://neoj.sprout.tw/problem/467/
+[468]:https://neoj.sprout.tw/problem/468/
 [504]:https://neoj.sprout.tw/problem/504/
 [646]:https://neoj.sprout.tw/problem/646/
 [764]:https://neoj.sprout.tw/problem/764/
