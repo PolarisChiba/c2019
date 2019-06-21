@@ -9,6 +9,7 @@
 ## 各式連結
 - [作業說明投影片](https://docs.google.com/presentation/d/1IMr2_kanSRoEtCkd4JjJgnI7dFJwvnj2d6jjH8HRWkY/edit?usp=sharing)
 - [作業檔案](https://github.com/jacky860226/sprout2019C_project2)
+- [講解投影片](https://drive.google.com/open?id=1G0woQ8fBOaznkni0sfc3Kol74wXdGjJV)
 
 ## 繳交格式
 請用email收到的帳號密碼進入以下CMS系統：
