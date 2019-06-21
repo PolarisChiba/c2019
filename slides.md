@@ -135,10 +135,11 @@
 ## 第十五週投影片 6/15
 | 主題                   | 北區                      | 竹區                           |
 | ---------------------- | ------------------------ | ------------------------------ |
-| 遞迴2                  | [遞迴2][tp-recursion2]    |  |
+| 遞迴2                  | [遞迴2][tp-recursion2]    | [遞迴2][hs-recursion2]  |
 |STL 函式                |[STL函式][tp-stl2]       | |
 | 課程展望               | [展望][T-future]          |  |
 
 [tp-recursion2]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=recursion2_2019
 [T-future]: https://docs.google.com/presentation/d/1LJS4cmg-7jAaUP-S7E8bxL8cUkMV-GBIlq5O0XXr3dI/edit#slide=id.p
 [tp-stl2]: https://drive.google.com/file/d/1TIhVkE_Z4ut1S2GkZtETTAAWYh7A2P4u/view?usp=sharing
+[hs-recursion2]: https://drive.google.com/open?id=1HmbIXS5JZBC2YXUnQd9rvNPXf2kXksLI
