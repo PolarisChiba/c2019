@@ -10,9 +10,9 @@
 | OJ使用說明 | | [OJ使用說明][hc-oj] |
 
 [taipei-intro]: https://drive.google.com/open?id=1-S2Z3ROvg5xAmYbUKOY5nZPrbjZsOcon
-[taipei-b]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=intro_2019
+[taipei-b]: https://drive.google.com/open?id=1c6xO9qXC8mk1FhPF27mWEvQuG9PuW7Hb
 [taipei-IDE]: https://drive.google.com/open?id=1kbKAIZruxIT0MJp3xjIBOWRJeJMbf7YD
-[taipei-exp]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=variable_2019
+[taipei-exp]: https://drive.google.com/open?id=1J-HOvDD6tDllY-SMHCr6ZttWSHU144W6
 [hc-intro]: https://drive.google.com/open?id=1FS62u-hX0B_OU68yHgKHPEx7rfGVQWtVQN6h20c6Gbw
 [hc-IDE]: https://drive.google.com/file/d/0B13ab_fQ7QbjbHd4alFORmJvenc/view
 [hc-expression-and-variable]: https://drive.google.com/open?id=1wowN-r0_w3CvmaRhfRvpuGnxDsJ_s7Nr
@@ -38,7 +38,7 @@
 [hc-1d_array]: https://drive.google.com/file/d/1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu/view
 [hc-for]: https://drive.google.com/open?id=1BFit6o8gxiznf20am82xSXlbOjEDy6Ux-tsJKJWBtuA
 [tp-for]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2019/ForLoop/
-[tp-1d_array]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=array_2019
+[tp-1d_array]: https://drive.google.com/open?id=1xQiUXOYCNzs20-zFphYzHHHpzt6OoBag
 
 ## 第四週投影片 03/30
 | 主題               | 北區                      | 竹區                           |
@@ -60,8 +60,8 @@
 
 [type2]: https://drive.google.com/file/d/1hGLibym-rXvJZ0lU1hIsWjK9vtKhFM8b/view
 [hc-callFunction]: https://drive.google.com/open?id=1cSqIJhnSOrR2MxSvocbmW9cy-FZzccqw
-[tp-data-type]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=data_type_2019
-[tp-random]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=random_2019
+[tp-data-type]: https://drive.google.com/open?id=1afK_VwCsg_whQW_K1mp2Y_7196XUXLzP
+[tp-random]: https://drive.google.com/open?id=14DuD_E5L1F_OkmiTLjUs6oExj_IDiQdI
 [tp-callFunction]: https://slides.com/arvinliu/deck-11
 
 ## 第七週投影片 4/20
@@ -108,7 +108,7 @@
 [hc-pointer]:https://drive.google.com/file/d/1UWBpYtDFK0tbwZddOORCaC3s1QiNOdk6/view?usp=sharing
 [hc-reference]:https://drive.google.com/file/d/1t78ZnV6eyZAMp2a7OAQCmQJLZNF0aGZA/view?usp=sharing
 [tp-pointer]:https://slides.com/arvinliu/pointer
-[tp-header]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=header_2019
+[tp-header]: https://drive.google.com/open?id=1cYwdy9GGZ0oZErAGP6xmnZyQUdHKtna1
 
 ## 第十二週投影片 5/25
 | 主題                   | 北區                      | 竹區                           |
@@ -139,7 +139,7 @@
 |STL 函式                |[STL函式][tp-stl2]         | [STL函式][hc-stl2]|
 | 課程展望               | [展望][T-future]          |  同北區  |
 
-[tp-recursion2]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=recursion2_2019
+[tp-recursion2]: https://drive.google.com/open?id=1iXmepWGsPmgwbNH7HPvjPF8IDS206Q14
 [T-future]: https://docs.google.com/presentation/d/1LJS4cmg-7jAaUP-S7E8bxL8cUkMV-GBIlq5O0XXr3dI/edit#slide=id.p
 [tp-stl2]: https://drive.google.com/file/d/1TIhVkE_Z4ut1S2GkZtETTAAWYh7A2P4u/view?usp=sharing
 [hs-recursion2]: https://drive.google.com/open?id=1HmbIXS5JZBC2YXUnQd9rvNPXf2kXksLI
